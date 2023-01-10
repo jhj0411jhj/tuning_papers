@@ -7,6 +7,7 @@
 + (SIGMOD19)(CDBTune)An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning
 + (VLDB19)QTune- A Query-Aware Database Tuning System with Deep Reinforcement Learning
 + (SIGMOD21)(xinyi)ResTune- Resource Oriented Tuning Boosted by Meta-Learning for Cloud Databases
++ (VLDB22)(EA)Facilitating Database Tuning with Hyper-Parameter Optimization- A Comprehensive Experimental Evaluation
 
 ## Hadoop & Spark
 + (2020 survey)A Survey on Automatic Parameter Tuning for Big Data Processing Systems
